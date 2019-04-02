@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">NCFMobileV2</string>
+
+    <string name="boarshead_name">Deli and C-Store</string>
+    <string name="metz_cafe_name">Metz Cafe</string>
+    <string name="four_winds_name">Four Winds Cafe</string>
+    <string name="bay_img_description">NCF Bayfront</string>
+    <string name="title_activity_map">MapActivity</string>
+    <string name="tab_text_1">Map</string>
+    <string name="tab_text_2">List</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_test_list">Tests</string>
+    <string name="title_test_detail">Test Detail</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

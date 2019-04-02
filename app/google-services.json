@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "324538545296",
+    "firebase_url": "https://ncfmobilev2.firebaseio.com",
+    "project_id": "ncfmobilev2",
+    "storage_bucket": "ncfmobilev2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324538545296:android:a1a79d166b569571",
+        "android_client_info": {
+          "package_name": "com.example.dianatarazi.ncfmobilev2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "324538545296-f539uhb2kp65d22trbiktpb6r4ppk3hd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dianatarazi.ncfmobilev2",
+            "certificate_hash": "5f1f445e035c9278a02a15285a4ee30335411231"
+          }
+        },
+        {
+          "client_id": "324538545296-jlg2qq2gk07ddot3nks0st5hu7amrpcj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB70XENgWFLwdkh1poGHLFFekVEQJoICe8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "324538545296-jlg2qq2gk07ddot3nks0st5hu7amrpcj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

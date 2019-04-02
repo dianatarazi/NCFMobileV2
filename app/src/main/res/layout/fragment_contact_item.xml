@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_margin="16dp"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/contact_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?attr/textAppearanceListItem"
+        android:text="Emergency"/>
+
+    <TextView
+        android:id="@+id/phone_number"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/contact_name"
+        android:text="911"/>
+
+    <ImageView
+        android:id="@+id/phone_icon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/ic_phone"
+        android:layout_centerVertical="true"
+        android:layout_alignParentEnd="true"
+        />
+
+</RelativeLayout>
